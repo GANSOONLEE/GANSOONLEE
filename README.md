@@ -21,10 +21,12 @@
 我主要以網頁開發爲主，軟體開發為次。
 
 使用的程式語言有：
-  + 網頁開發：php, Javascript, Typescript, Ajax, jQuery, Asp
+  + 網頁開發：php, Javascript, Typescript, Ajax, jQuery, Asp, MySQL
   + 軟體開發：Python, Java, C# (目前就這樣)
+  + 未來打算學的語言：Golang, C++, C, Kotlin
 
 網頁開發框架目前只有: Laravel
 
 ## 設計方面
 我最要是以 UI/UX設計爲主，喜歡自己從界面設計到前後端都自己弄得感覺。
+從 flow chart 到 wireframe， 從 mockup 到 prototype
