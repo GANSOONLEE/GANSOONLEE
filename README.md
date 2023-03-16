@@ -1,4 +1,4 @@
-## 你好，我是阿循
+<h1 align="center">你好，我是阿循</h1>
 
 
 <p align="center" style="width:600px">
@@ -23,5 +23,8 @@
 使用的程式語言有：
   + 網頁開發：php, Javascript, Typescript, Ajax, jQuery, Asp
   + 軟體開發：Python, Java, C# (目前就這樣)
-  
+
 網頁開發框架目前只有: Laravel
+
+## 設計方面
+我最要是以 UI/UX設計爲主，喜歡自己從界面設計到前後端都自己弄得感覺。
