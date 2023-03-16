@@ -2,8 +2,8 @@
 
 
 <p align="center" style="width:600px">
-  <img src="https://github-readme-stats.vercel.app/api?username=gansoonlee&show_icons=true&theme=radical&locale=zh-tw">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gansoonlee&theme=radical&locale=zh-tw">
+  <img src="https://github-readme-stats.vercel.app/api?username=gansoonlee&show_icons=true&theme=radical&locale=zh-tw">
 </p>
 
 <p align="center">
@@ -25,8 +25,3 @@
   + 軟體開發：Python, Java, C# (目前就這樣)
   
 網頁開發框架目前只有: Laravel
-
-## 聯絡我：
-
-
-
