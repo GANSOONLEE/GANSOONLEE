@@ -4,8 +4,8 @@
 
 
 <p align="center" style="width: 600px">
-  <img style="height:200px" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=gansoonlee&theme=radical&locale=zh-tw&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=gansoonlee&theme=radical&locale=zh-tw&layout=compact&langs_count=10)">
-  <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=gansoonlee&show_icons=true&theme=radical&locale=zh-tw&langs_count=10">
+  <img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gansoonlee&theme=radical&locale=zh-tw&layout=compact&langs_count=10">
+  <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=gansoonlee&show_icons=true&theme=radical&locale=zh-tw">
 </p>
 
 <p align="center" style="width:600px">
@@ -64,7 +64,7 @@
 <h1 align="center">Hi, My name is Frank</h1>
 
 <p align="center" style="width: 600px">
-  <img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gansoonlee&theme=radical&locale=en&layout=compact">
+  <img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gansoonlee&theme=radical&locale=en&layout=compact&langs_count=10">
   <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=gansoonlee&show_icons=true&theme=radical&locale=en&langs_count=10">
 </p>
 
