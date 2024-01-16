@@ -50,6 +50,9 @@
   - Java
   - C#
 
+## 目前正在學習：
+  - Docker
+
 ## 之後的規劃：
   - 學習 Kotlin, Golang, Dart, Flutter 來開發一個 Android 應用
 
@@ -109,6 +112,9 @@ In addition, I also do **UI and UX** design myself.
   - Python
   - Java
   - C#
+
+## Currently studying：
+  - Docker
 
 ## Future Plans：
   - Learn **Kotlin, Golang, Dart, Flutter** to develop an android application
