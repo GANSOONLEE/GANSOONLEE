@@ -4,7 +4,7 @@
 
 
 <p align="center" style="width: 600px">
-  <img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gansoonlee&theme=radical&locale=zh-tw&layout=compact&langs_count=10">
+  <img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gansoonlee&theme=radical&locale=zh-tw&layout=compact&langs_count=20">
   <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=gansoonlee&show_icons=true&theme=radical&locale=zh-tw">
 </p>
 
