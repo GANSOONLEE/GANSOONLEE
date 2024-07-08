@@ -36,7 +36,7 @@
     - VueJS
   - 後端：
     - php
-  - 數據庫：
+  - 資料庫：
     - MySQL
     - MangoDB
   - 框架 & 工具
