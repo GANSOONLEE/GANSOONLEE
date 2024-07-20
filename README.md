@@ -15,14 +15,15 @@
 ## 關於我
 
 嗨！你好。
-我是阿循，一名來自馬來西亞的19嵗少年，
+我是阿循，一名來自馬來西亞的20嵗少年，
+在 2024 年到台灣留學 UwU。
 
 我的興趣有：
   - 彈鋼琴
   - 寫程式
   - 攝影
 
-現爲一個業餘的全端工程師，負責開發網頁和架設伺服器
+現爲一個兼職的全端工程師，負責開發網頁和架設伺服器
 除此之外，我本身也有做 UI&UX的設計
 
 ## 程式方面
@@ -31,9 +32,6 @@
   - 前端：
     - Javascript
     - Typescript
-    - jQuery
-    - NodeJS
-    - VueJS
   - 後端：
     - php
   - 資料庫：
@@ -44,6 +42,15 @@
     - Bootstrap 5
     - Vite
     - Webpack (mix)
+    - jQuery
+    - NodeJS
+    - VueJS
+    - Livewire
+    - InertiaJS
+    - NuxtJS
+    - Angular
+    - React
+    - Docker
    
 ### 軟體開發 【次要】：
   - Python
@@ -51,10 +58,7 @@
   - C#
 
 ## 目前正在學習：
-  - Docker
-
-## 之後的規劃：
-  - 學習 Kotlin, Golang, Dart, Flutter 來開發一個 Android 應用
+  - .NET, Rush, Golang, Flutter
 
 ## 參與的專案：
   - 目前沒有 QQ
@@ -78,7 +82,8 @@
 ## About Me
 
 Hello ~~World~~ ！
-I'm Frank, a 19-year-old boy from Malaysia.
+I'm Frank, a 20-year-old boy from Malaysia.
+Come to Taiwan to study in 2024.
 
 My interests include: 
   - Playing Piano
@@ -94,30 +99,33 @@ In addition, I also do **UI and UX** design myself.
   - Frontend：
     - Javascript
     - Typescript
-    - jQuery
-    - NodeJS
-    - VueJS
   - Backend：
     - php
   - Database (DB)：
     - MySQL
     - MangoDB
   - Frame
-    - Laravel (基於 php)
+    - Laravel (Base on php)
     - Bootstrap 5
     - Vite
     - Webpack (mix)
+    - jQuery
+    - NodeJS
+    - VueJS
+    - Livewire
+    - InertiaJS
+    - NuxtJS
+    - Angular
+    - React
+    - Docker
    
 ### Software Engineering【Secondary】：
   - Python
   - Java
   - C#
 
-## Currently studying：
-  - Docker
-
-## Future Plans：
-  - Learn **Kotlin, Golang, Dart, Flutter** to develop an android application
+## Learning Languages:
+  - .NET, Rush, Golang, Flutter
 
 ## Participate Projects：
   - N/A
