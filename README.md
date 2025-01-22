@@ -4,23 +4,25 @@
 
 
 <p align="center" style="width: 600px">
-  <img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gansoonlee&theme=radical&locale=zh-tw&layout=compact&langs_count=20">
-  <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=gansoonlee&show_icons=true&theme=radical&locale=zh-tw">
+  <img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gansoonlee&theme=radical&locale=cn&layout=compact&langs_count=20">
+  <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=gansoonlee&show_icons=true&theme=radical&locale=cn">
 </p>
 
 <p align="center" style="width:600px">
-  <img style="width: max-width" src="https://github-readme-streak-stats.herokuapp.com/?user=gansoonlee&locale=zh-tw&theme=dark&line_height=2.7px">
+  <img style="width: max-width" src="https://github-readme-streak-stats.herokuapp.com/?user=gansoonlee&locale=en&theme=dark&line_height=2.7px">
 </p>
 
 ## 關於我
 
 嗨！你好。
-我是阿循，一名來自馬來西亞的20嵗少年，
+我是阿循，一名來自馬來西亞的21嵗少年，
 在 2024 年到台灣留學 UwU。
 
 我的興趣有：
   - 彈鋼琴
   - 寫程式
+  - 繪畫
+  - 作曲
   - 攝影
 
 現爲一個兼職的全端工程師，負責開發網頁和架設伺服器
@@ -34,9 +36,12 @@
     - Typescript
   - 後端：
     - php
+    - django
   - 資料庫：
     - MySQL
+    - SQLite
     - MangoDB
+    - MariaDB
   - 框架 & 工具
     - Laravel (基於 php)
     - Bootstrap 5
@@ -82,7 +87,7 @@
 ## About Me
 
 Hello ~~World~~ ！
-I'm Frank, a 20-year-old boy from Malaysia.
+I'm Frank, a 21-year-old boy from Malaysia.
 Come to Taiwan to study in 2024.
 
 My interests include: 
@@ -101,9 +106,12 @@ In addition, I also do **UI and UX** design myself.
     - Typescript
   - Backend：
     - php
+    - django
   - Database (DB)：
     - MySQL
+    - SQLite
     - MangoDB
+    - MariaDB
   - Frame
     - Laravel (Base on php)
     - Bootstrap 5
